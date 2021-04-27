@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "515558734108",
+    "firebase_url": "https://ewages-wpms-default-rtdb.firebaseio.com",
+    "project_id": "ewages-wpms",
+    "storage_bucket": "ewages-wpms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515558734108:android:059928b51f8b34e279e2d9",
+        "android_client_info": {
+          "package_name": "com.nitco.e_wages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515558734108-j465gqmncnu8il3m49rh5uk82cbnvsfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYyQKdFGxZpyZWz5jTpjDi2a7JoWDOZ6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515558734108-j465gqmncnu8il3m49rh5uk82cbnvsfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

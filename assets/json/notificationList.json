@@ -1,0 +1,52 @@
+{
+  "notificationList":[
+    {
+      "msgId":1,
+      "notificationType":"SALARY",
+      "title":"April Salary",
+      "message":"Your April Salary is credited to your eWallet Account",
+      "read":false,
+      "datetime": "Just now"
+    },
+    {
+      "msgId":1,
+      "notificationType":"PAYSLIP",
+      "title":"April Payslip",
+      "message":"Please be informed that Payslip for the month of April is ready.",
+      "read":false,
+      "datetime": "8 minutes ago"
+    },
+    {
+      "msgId":2,
+      "notificationType":"COMPLAIN",
+      "title":"Complain",
+      "message":"System Admin tagged your complain as closed.",
+      "read":false,
+      "datetime": "4 hours ago"
+    },
+    {
+      "msgId":1,
+      "notificationType":"COMPLAIN",
+      "title":"Complain",
+      "message":"System Admin already received your complain. See status.",
+      "read":true,
+      "datetime": "2 days ago"
+    },
+    {
+      "msgId":1,
+      "notificationType":"COMPLAIN",
+      "title":"Complain",
+      "message":"System Admin replied to your complain regarding Workplace Condition.",
+      "read":true,
+      "datetime": "a week ago"
+    },
+    {
+      "msgId":3,
+      "notificationType":"PAYSLIP",
+      "title":"March Payslip",
+      "message":"Please be informed that Payslip for the month of March is ready.",
+      "read":true,
+      "datetime": "a month ago"
+    }
+  ]
+}
