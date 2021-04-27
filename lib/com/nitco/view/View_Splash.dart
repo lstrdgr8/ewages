@@ -1,8 +1,6 @@
 import 'package:e_wages/com/nitco/view/View_Login.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-// ignore: import_of_legacy_library_into_null_safe
-import 'package:splashscreen/splashscreen.dart';
 
 // ignore: camel_case_types
 class View_Splash extends StatefulWidget {
@@ -23,7 +21,7 @@ class _View_Splash extends State<View_Splash> {
     return new MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        body: new SplashScreen(
+        /*body: new SplashScreen(
           seconds: 4,
           imageBackground: AssetImage(
               'assets/icons/splash_background.png',
@@ -35,7 +33,8 @@ class _View_Splash extends State<View_Splash> {
           image: new Image.asset(
             'assets/icons/ewages-icon.png',
             alignment: Alignment.bottomRight),
-        ),
+        ),*/
+        body: View_Login(),
       ),
       theme: Theme.of(context).copyWith(
         primaryColor: Color(0xff13668D),
